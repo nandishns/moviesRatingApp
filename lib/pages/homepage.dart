@@ -173,7 +173,7 @@ class _HomePageState extends State<HomePage> {
                           });
                           print(upvotes);
                         },
-                        icon: Icon(Icons.arrow_downward),
+                        icon: const Icon(Icons.arrow_downward),
                       ),
                     ],
                   ),
